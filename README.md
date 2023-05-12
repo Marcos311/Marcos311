@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos Vinicius 😀
 
-- 🏫 I'm a student of analysis and development at Fatec Guarulhos
+- Analysis and development
 - 🌱 I’m currently learning Java
 - 💬 Ask me about software development
 - 📫 How to reach me: marcosvinisabino@gmail.com
