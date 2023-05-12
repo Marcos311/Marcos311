@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos Vinicius 😀
 
-- Analysis and development
+- Analysis and Systems Development
 - 🌱 I’m currently learning Java
 - 💬 Ask me about software development
 - 📫 How to reach me: marcosvinisabino@gmail.com
