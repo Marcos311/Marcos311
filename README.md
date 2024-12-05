@@ -1,7 +1,7 @@
 ### Hi there, I'm Marcos Vinicius 😀
 
 - Analysis and Systems Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 💬 Ask me about software development
 - 📫 How to reach me: marcosvinisabino@gmail.com
 - 📱 How to reach me: +55(11)97696-0824
